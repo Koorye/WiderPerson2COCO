@@ -4,7 +4,7 @@
 
 **main.py**: 生成COCO格式训练和验证的Annotation文件，形如：instance_xxx.json
 
-```json
+```
 'images': [
     {
         'file_name': 'xxxxxx.jpg',
